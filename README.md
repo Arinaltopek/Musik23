@@ -14,3 +14,9 @@ pkg install bash
 pip2 install requests
 
 pip2 install mechanize
+
+git clone https://github.com/Arinaltopek/Musik23
+
+cd Musik23
+
+sh Musik.sh 
